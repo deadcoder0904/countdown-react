@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![countdown-react](http://imgur.com/0IsOasQ.png)
+![countdown-react](http://imgur.com/4mdOBop.png)
 
 ## License
 

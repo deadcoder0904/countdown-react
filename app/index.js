@@ -44,7 +44,7 @@ class Countdown extends Component {
 		const { minutes, seconds } = this.formatInMinutes(this.state.seconds);
 		return (
 				<div>
-					<h1>Countdown Begins :- <br/> { minutes }  :  { seconds }</h1>
+					<h1>This is your life & its ending one moment at a time :- <br/> { minutes }  :  { seconds }</h1>
 					<br/>
 					{ this.state.seconds !== 0 && <h5>Wait till Countdown Ends to see what happens</h5> }
 					{
