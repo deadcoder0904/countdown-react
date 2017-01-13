@@ -1,5 +1,7 @@
 # countdown-react
 
+> Countdown :clock: Clock Written in React JS :heart:
+
 # Screenshot
 
 ![countdown-react](http://imgur.com/0IsOasQ.png)
