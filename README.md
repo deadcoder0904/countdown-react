@@ -1,6 +1,6 @@
 # countdown-react
 
-> Countdown :clock: Clock Written in React JS :heart:
+> Countdown :alarm_clock: Clock Written in React JS :heart:
 
 # Screenshot
 
